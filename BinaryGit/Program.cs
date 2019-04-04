@@ -8,8 +8,11 @@ namespace BinaryGit
 {
     class Program
     {
+
         static void Main(string[] args)
         {
+            
         }
+    
     }
 }
